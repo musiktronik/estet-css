@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(255,127,127);
+}
+
+header {
+    background-color: red;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+nav {
+    background-color: blue;
+}
+
+section {
+    background-color: yellow;
+}
+
+article {
+    background-color: white;
+}
+
+#article-one{
+    border: black solid 3px;    
+}
+
+#article-two{
+    border: red solid 3px;    
+}
+
+footer {
+    background-color: grey;
+}
+
